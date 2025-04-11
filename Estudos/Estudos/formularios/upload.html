@@ -1,0 +1,15 @@
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>FILE E UPLOAD</title>
+    </head>
+    <body>
+        <h1>Formulário</h1>
+        <form action="/cadastro" enctype="multipart/form-data" method="post"><!--nunca utiliza method= get apenas post isso é uma regra, procure no site https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/accept-->
+           <input type="file" name="arquivo" multiple><!--multiple serve para selecionar mais de 1 arquivo-->
+           <br><br>
+            <input type="submit" name="Enviar">
+        </form>
+    </body>
+</html>

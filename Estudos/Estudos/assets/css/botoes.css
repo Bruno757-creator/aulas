@@ -1,0 +1,17 @@
+button {
+    padding: 15px;
+    border: 0px;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    cursor: pointer;
+}/*na linha 7 o cursor serve para aparecer a mãozinha quando o mouse passa pela parte do botão*/
+
+button:hover {
+    background-color: rgb(19, 19, 20);
+    padding: 15.5px;
+}/*está classe esta informando para quando o mouse passar em cima do botão ele mudar de cor*/
+
+body {
+    zoom: 2;
+}/*nesta classe podemos dar zoom na pagina*/

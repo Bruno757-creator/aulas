@@ -1,0 +1,14 @@
+h3 {
+    font-size: 15px;
+    background-color: rgb(42, 165, 79);
+}
+
+.titulo{
+    color: rgb(250, 246, 7);
+    font-size: 25px;
+}
+
+#paragrafo{
+    font-size: 25px;
+    color: blue;
+}

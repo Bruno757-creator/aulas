@@ -1,0 +1,9 @@
+body {
+    font-size: 25px;
+    color: rgb(6, 6, 241);
+    background-color: #FFEBCD;
+}/*o background-color ele deixa o corpo todo azul, já o color deixa apenas o texto, tem como colocar as cores pelo palavra, ou colocando o codigo das cores ex #FFEBCD, tem tbm o modelo rgb (red,green,blue) que vai ate 255 o numero ele utiliza as tres cores para fazer varias cores diferentes tipo cores primarias, no exemplo do body eu usei rgb e o codigo hexadecimal e no h3 eu usei pelo nome*/
+
+h3 {
+    color: red;
+}

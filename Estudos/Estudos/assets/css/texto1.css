@@ -1,0 +1,11 @@
+P {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    line-height: 35px;
+    color: darkred;
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: underline;
+}/*cada modelo de formatação na linha 4 deixa o texto em negrito, na linha 5 ele mexe com o espaçamento de cada letra, na linha 6 sobre o espaçamento de uma linha de cma com a de baixo, na linha 8 existe varias coisas tem um q transforma todas as letras em maiusculo, ou mesmo a que estou usando a primeira letra de cada palavra fica maiusculo, na linha 9 ele e onde usamos para deixar um texto no centro da pagina e na linha 10 serve para colocar uma linha sublinhada.*/

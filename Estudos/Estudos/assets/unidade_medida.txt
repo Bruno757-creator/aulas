@@ -1,0 +1,8 @@
+Unidade de medidas
+
+° Unidades Absolutas
+px - resolução da tela
+pt - significa ponto (usado mais em midia impressa)
+
+° Unidades Relativas
+% - Porcentagem

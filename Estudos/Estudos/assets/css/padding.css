@@ -1,0 +1,6 @@
+.quadrado--1 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    padding: 10px 20px;
+}/*padding serve para ter uma margem para dentro do quadrado emquanto margin serv epara ter uma margem por fora, quando tem 2 parametros o primeiro é para baixo e para cima o segundo parametro e para esquerda e para direita, agora quando tem 1 parametro e para todos os lados*/

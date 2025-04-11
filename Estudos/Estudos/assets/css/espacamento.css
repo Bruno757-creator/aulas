@@ -1,0 +1,7 @@
+.quadrado--azul {
+    background-color: blue;
+    width: 390px;
+    height: 390px;
+    border: 10px solid red;
+    border-radius: 50%;
+}/*width significa largura e height significa altura*/
